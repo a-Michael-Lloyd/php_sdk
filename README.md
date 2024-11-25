@@ -4,7 +4,7 @@
 
 The perfect OCR receipt scanning API for developers, utilizing state-of-the-art receipt optical character recognition. Technology designed from the ground up for receipt recognition and data extraction.
 
-Tab Scanner is the world's first truly accurate check and receipt scanning technology. It utilises a highly crafted OCR system with state-of-the-art AI to ensure robust and reliable data extraction at lightning speeds.
+Tabscanner is the world's first truly accurate check and receipt scanning technology. It utilises a highly crafted OCR system with state-of-the-art AI to ensure robust and reliable data extraction at lightning speeds.
 - Highly accurate data extraction
 - Sub-second processing speeds
 - Cross-platform API support
@@ -12,11 +12,11 @@ Tab Scanner is the world's first truly accurate check and receipt scanning techn
 - Flexible pricing plans
 
 ## About this SDK
-This is an official PHP development kit for Tab Scanner API. For more information about Tab Scanner API please visit https://www.tabscanner.com
+This is an official PHP development kit for Tabscanner API. For more information about Tabscanner API please visit https://www.tabscanner.com
 
 ### Installation
 
-The recommended way to install Tab Scanner PHP SDK is through [Composer](https://getcomposer.org/).
+The recommended way to install Tabscanner PHP SDK is through [Composer](https://getcomposer.org/).
 
 ```sh
 $ composer require tabscanner/phpsdk:1.0.2
@@ -24,7 +24,7 @@ $ composer require tabscanner/phpsdk:1.0.2
 
 ### Basic Usage
 
-Visit [Tab Scanner Admin](https://admin.tabscanner.com) for your API key 
+Visit [Tabscanner Admin](https://dashboard.tabscanner.com) for your API key 
 
 Note: The upload API can accept one of the following parameter:
 - array - single HTTP File Upload variable ($_FILES) (for array of files see upload_multiple method)
